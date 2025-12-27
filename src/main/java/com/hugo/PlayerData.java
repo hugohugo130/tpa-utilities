@@ -1,7 +1,7 @@
-package com.tpautilities;
+package com.hugo;
 
 public class PlayerData {
-    private String language = "en";
+    private String language = "zh";
 
     public String getLanguage() {
          return language;
